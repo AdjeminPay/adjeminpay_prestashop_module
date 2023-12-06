@@ -18,12 +18,12 @@ Les clés d'API oAuth2 sont au nombre de deux(2):
 
 Une fois Une fois les clés générées, vous pouvez maintenant utiliser notre module.
 
-## Etape 1 - Télécharger le module Prestashop
+## Etape 1 - Téléchargez le module Prestashop
 
-Veuillez [cliquer ici pour obtenir le fichier .zip](https://adjeminpay.com/plugins/prestashop/adjeminpay_prestashop_v1_0_1.zip)
+Veuillez [cliquer ici pour obtenir le fichier .zip](https://github.com/AdjeminPay/adjeminpay_prestashop_module/raw/main/adjeminpay_prestashop_v3_0_0.zip)
 module Prestashop.
 
-##   Etape 2 - Installer et activer le module
+##   Etape 2 - Installez et activez le module
 
 Une fois le fichier .zip du module téléchargé,
 rendez-vous dans votre espace d’administration
@@ -37,11 +37,11 @@ prestashop et effectuez les opérations suivantes :
 Rendez-vous sur la section **Modules > Module manager** de votre
 espace d’administration, puis cliquez sur **Upload Module** pour téléverser le fichier le fichier .zip du module téléchargé.
 
-![screenshot_admin_1](/uploads/caefd96d78b84e570de4d6f4796671f2/screenshot_admin_1.png)
+![screenshot_admin_1](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_admin_1.png?raw=true)
 
 - Installer et Activer
 
-![screenshot_admin_2](/uploads/ccf61cf64e1136e77bc1c15f14a95369/screenshot_admin_2.png)
+![screenshot_admin_2](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_admin_2.png?raw=true)
 
 :::tip Félicitations
 
@@ -52,12 +52,12 @@ espace d’administration, où vous recherchez le module en saisissant AdjeminPa
 
 - Configurer le module
 
-![screenshot_admin_3](/uploads/5e8df8f9bda65fdbb13c4c586953c236/screenshot_admin_3.png)
+![screenshot_admin_3](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_admin_3.png?raw=true)
 
 
 - Ajouter votre client_secret et client_id
 
-Rendez-vous dans votre espace marchant [espace marchant](https://merchant.adjeminpay.net) **AdjeminPay**
+Rendez-vous dans votre espace marchant [espace marchant](https://adjeminpay.com/admin/login) **AdjeminPay**
 et copiez le client_id et le client_secret de votre application
 marchande.
 
@@ -70,18 +70,18 @@ votre boutique Prestashop.
 - Page Checkout
 
 
-![screenshot_front_1](/uploads/951282ea842fc9f7a64d13b143dc2a93/screenshot_front_1.png)
+![screenshot_front_1](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_front_1.png?raw=true)
 
 - Page de Paiement
 
 
 
-![screenshot_front_2](/uploads/2435d634a39e9a53a033032e682023b4/screenshot_front_2.png)
+![screenshot_front_2](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_front_2.png?raw=true)
 
 - Page du Resultat Paiement
 
-![screenshot_front_3](/uploads/47e343fb54ab04bdb419eda0f8b4898d/screenshot_front_3.png)
+![screenshot_front_3](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_front_3.png?raw=true)
 
 - Page de la page confirmation de commande
 
-![screenshot_front_4](/uploads/b3455de98df67a01610e108149008b93/screenshot_front_4.png)
+![screenshot_front_4](https://github.com/AdjeminPay/adjeminpay_prestashop_module/blob/main/screenshots/screenshot_front_4.png?raw=true)
